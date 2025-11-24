@@ -1,15 +1,12 @@
 AI
 人工智能
+!股票
+
 AI动画
 骨骼动画
-二次元AI
-
-剪辑
+二次元
 生成式AI
-
-openai
-chatgpt
-
+!股票
 
 游戏
 游戏ai
@@ -21,15 +18,11 @@ agent
 comfyui
 视频生成
 
-图形学
-
-
 人机交互
 设计学
 
 字节
 bytedance
-
 
 特斯拉
 马斯克
